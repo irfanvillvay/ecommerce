@@ -6029,3 +6029,9 @@ th.hide-for-touch {
 
   th.show-for-print {
     display: table-cell !important; } }
+
+
+#myp{
+    font-family: coopere;
+    color: blue;
+}
